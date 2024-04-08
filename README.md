@@ -1,5 +1,4 @@
 # Health Care Data Driven Decisions using Power BI  
-![image](https://github.com/sivabalaji001/Health_care_analysis-edunet_internship-/assets/99901295/bf8aa3b2-19a2-495b-814d-f5a037191e52)
 
 This project utilizes Power BI for data analytics in healthcare, demonstrating how data-driven decisions can enhance healthcare outcomes. It offers visualizations and insights derived from healthcare data, aiding in informed decision-making.
 
@@ -8,7 +7,7 @@ This project utilizes Power BI for data analytics in healthcare, demonstrating h
 This project focuses on utilizing Power BI for data analytics in the healthcare sector. It aims to showcase how data-driven decisions can improve healthcare outcomes.
 
 ## Demo
-Include a link to a live demo or a video showcasing your Power BI dashboard.
+![image]( )
 
 
 ## Technologies Used
@@ -77,5 +76,3 @@ This project utilizes data from @data. We acknowledge the support and guidance o
 For inquiries or collaborations, please contact Manakavoo:[manakavoo.ug.21.ad@francisxavier.ac.in].
 
 ---
-
-Feel free to customize this template to fit your project's specifics and add any additional sections you think are relevant.
