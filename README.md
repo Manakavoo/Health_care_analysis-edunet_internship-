@@ -6,8 +6,9 @@ This project utilizes Power BI for data analytics in healthcare, demonstrating h
 ## Overview
 This project focuses on utilizing Power BI for data analytics in the healthcare sector. It aims to showcase how data-driven decisions can improve healthcare outcomes.
 
+
 ## Demo
-![image]( )
+![dashboard](https://github.com/sivabalaji001/Health_care_analysis-edunet_internship-/assets/99901295/8fc7b79e-5dba-41f3-9d23-f89a963a3e48)
 
 
 ## Technologies Used
@@ -31,7 +32,8 @@ This project focuses on utilizing Power BI for data analytics in the healthcare 
 - Configure data sources and refresh data if required.
 - Interact with the dashboard using filters and slicers.
 - Save the project file with any changes and share or publish it as needed.
-For more details refer Power BI Installation Procedure
+For more details refer  [Power BI Installation Procedure](https://github.com/sivabalaji001/Health_care_analysis-edunet_internship-/blob/main/Power%20BI%20Installation%20Procedure.docx)
+
 
 
 ## Usage
@@ -73,6 +75,7 @@ This project utilizes data from @data. We acknowledge the support and guidance o
 
 ## Contact
 
-For inquiries or collaborations, please contact Manakavoo:[manakavoo.ug.21.ad@francisxavier.ac.in].
+For inquiries or collaborations, [Contact Me](mailto:manakavoo.ug.21.ad@francisxavier.ac.in).
+
 
 ---
