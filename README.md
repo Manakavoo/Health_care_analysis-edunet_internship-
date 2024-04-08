@@ -1,6 +1,7 @@
-# Health_care_analysis-edunet_internship-
- This project demonstrates the use of Power BI in healthcare for data-driven decision-making. It showcases visualizations and insights derived from healthcare data, aiding in improving healthcare outcomes.
-Here's a README.md template for your "P12 - Health Care Data Driven Decisions using Power BI (DA)" project:
+# Health Care Data Driven Decisions using Power BI  
+![image](https://github.com/sivabalaji001/Health_care_analysis-edunet_internship-/assets/99901295/bf8aa3b2-19a2-495b-814d-f5a037191e52)
+
+This project utilizes Power BI for data analytics in healthcare, demonstrating how data-driven decisions can enhance healthcare outcomes. It offers visualizations and insights derived from healthcare data, aiding in informed decision-making.
 
 ---
 ## Overview
